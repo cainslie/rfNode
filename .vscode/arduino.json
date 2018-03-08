@@ -1,0 +1,6 @@
+{
+    "port": "COM8",
+    "board": "arduino:avr:pro",
+    "sketch": "rfNode.ino",
+    "configuration": "cpu=16MHzatmega168"
+}
